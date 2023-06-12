@@ -3,16 +3,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.1.0</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <groupId>com.wzx</groupId>
+        <artifactId>own-flow</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>own-flow-plugin</artifactId>
+    <artifactId>own-flow-start</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>own-flow-plugin</name>
-    <description>own-flow-plugin</description>
+    <name>own-flow-start</name>
+    <description>own-flow-start</description>
     <packaging>pom</packaging>
     <properties>
         <java.version>17</java.version>
