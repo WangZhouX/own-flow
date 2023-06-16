@@ -6,7 +6,7 @@ package core;
  * @description: TODO
  * @date 2023/6/12 23:36
  */
-public abstract class FlowInterfaceImpl implements FlowInterface{
+public abstract class FlowInterfaceImpl implements FlowInterface {
 
     /**
      *  审批

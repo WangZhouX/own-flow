@@ -25,7 +25,7 @@ public interface FlowInterface {
      * @param currentActionUserId 流程当前操作人唯一标识
      * @param flowActionEnum  操作信息
      */
-    void actioning(String taskId, String currentActionUserId,FlowActionEnum flowActionEnum);
+    void actioning(String taskId, String currentActionUserId, FlowActionEnum flowActionEnum);
 
     /**
      *  流程审批之后的所有操作 请在此处实现
